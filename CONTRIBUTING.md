@@ -30,7 +30,9 @@ download it to your computer:
 `git push`  
 
 6. **submit a pull request (PR)**  
-on github, click "compare & pull request." write a short description of what you added and submit it.
+on github, click "compare & pull request." write a short description of what you added and submit it.  
+
+⤷ your contribution will be reviewed, and once approved, added to the community repo!
 
 ---
 
