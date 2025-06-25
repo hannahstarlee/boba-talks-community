@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./images/bobatalks.png" alt="boba talks banner" width="600"/>
+</p>
+
 # boba talks 🍵
 
 a community-driven, open-source archive of advice, stories, and resources - built by and for students, creatives, and early-career folks figuring it out together.  
