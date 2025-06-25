@@ -8,29 +8,30 @@ you are also welcome to contribute **anonymously.** just write `anonymous` for y
 
 ---
 
-## ᯓ★ˎˊ˗ how to contribute
+## ᯓ★ˎˊ˗ how to contribute  
+
+no terminal, no git commands — you can contribute directly through the github website.    
+
+### steps:  
 
 1. **fork this repo**  
-click the fork button (top right) to create your own copy.
+→ click the **“Fork”** button (top right) to create your own copy.  
 
-2. **clone your fork**  
-download it to your computer:  
-`git clone https://github.com/your-username/boba-talks-community.git`  
+2. **add your file**  
+→ in your forked repo, navigate to the folder that fits your contribution (like `things-i-wish-i-knew/`).  
+→ click **“Add file” → “Create new file”**.  
+→ name your file something like `your-name.md` or `first-internship.md`.  
+→ copy the template from `example.md` in that folder and fill it out.  
 
-3. **add your file**  
-- go into the folder that fits your contribution  
-- create a new file with your name or your title (example: `anonymous-story.md` or `first-internship.md`)  
-- use the template in the `example.md` file inside that folder  
+3. **commit your changes**  
+→ scroll down to the **“Commit new file”** box.  
+→ write a short message like `add your-name-first-internship.md`.  
+→ click **“Commit directly to the main branch”** (of your fork).  
 
-4. **commit your changes**  
-`git add .`  
-`git commit -m "add [your file name]"`  
-
-5. **push it back to your fork**  
-`git push`  
-
-6. **submit a pull request (PR)**  
-on github, click "compare & pull request." write a short description of what you added and submit it.  
+4. **submit a pull request (PR)**  
+→ back in your forked repo, click **“Contribute” → “Open pull request”**.  
+→ write a quick description of what you added.  
+→ click **“Create pull request.”**  
 
 ⤷ your contribution will be reviewed, and once approved, added to the community repo!
 
