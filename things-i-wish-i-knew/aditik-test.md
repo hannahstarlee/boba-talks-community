@@ -1,7 +1,7 @@
 # things i wish i knew 🌸
 
-**name:**  Aditi Kumar
-**date:**  6/24/2025
+**name:**  Aditi Kumar  
+**date:**  6/24/2025  
 
 ## before applying for graduate school  
 - you don't need internships that much — research is more important! graduate programs are based more on research than technical stuff.  
