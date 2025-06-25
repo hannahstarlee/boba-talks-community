@@ -1,4 +1,8 @@
-<img src="./images/bobatalks.png" alt="logo" width="30"/> **boba talks 🍵**
+<p align="right">
+  <img src="./images/bobatalks.png" alt="boba talks logo" width="45"/>
+</p>
+
+# boba talks 🍵
 
 a community-driven, open-source archive of advice, stories, and resources - built by and for students, creatives, and early-career folks figuring it out together.  
 
