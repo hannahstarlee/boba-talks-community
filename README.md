@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/bobatalks.png" alt="boba talks banner" width="600"/>
+  <img src="./images/bobatalks.png" alt="boba talks banner" width="200"/>
 </p>
 
 # boba talks 🍵
