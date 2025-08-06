@@ -1,6 +1,6 @@
 # things i wish i knew 🌸
 
-**name:**  Everett Yan
+**name:**  Everett Yan <br />
 **date:**  August 2nd 2025
 
 ## before graduating 
