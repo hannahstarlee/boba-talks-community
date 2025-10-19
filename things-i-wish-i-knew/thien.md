@@ -1,11 +1,11 @@
 # things i wish i knew 🌸
 
 **name:**  
-Ronit
+Thien
 **date:**  
-08/20/2025
+10/19/2025
 
-## before [college / first job / internships / insert here]  
+## before college 
 - It’s okay to not know what you want yet.
 I used to be frustrated that I didn’t have my “thing” figured out in high school. But that’s totally normal. You can’t blame yourself for not having it all sorted out early. What matters more is staying open to trying new things, because that’s how you eventually discover what clicks.
 - You don’t need to be at a certain school to do “big school” things.
