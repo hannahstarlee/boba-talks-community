@@ -1,10 +1,11 @@
 # things i wish i knew 🌸
 
 **name:**  
-Thien
+Thien  
 
 **date:**  
 10/19/2025
+
 
 ## before college 
 - It’s okay to not know what you want yet.
